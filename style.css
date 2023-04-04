@@ -428,18 +428,18 @@ span{
  
 
 #project1{
-     background-image: url(/portfolio_image/discord11.png);
+     background-image: url(./portfolio_image/discord11.png);
 }
 #project2{
     margin-left:120px;
-    background-image: url(/portfolio_image/parallax1.png);
+    background-image: url(./portfolio_image/parallax1.png);
 }
 #project3{
-    background-image: url(/portfolio_image/clockanimation.png);
+    background-image: url(./portfolio_image/clockanimation.png);
 }
 #project4{
     margin-left:120px;
-    background-image: url(/portfolio_image/razorpay1.png);
+    background-image: url(./portfolio_image/razorpay1.png);
 }
 
 .skills-container{
