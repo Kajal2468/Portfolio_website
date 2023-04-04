@@ -547,6 +547,21 @@ transition: 0.5s;
     align-items: center;
     justify-content: center;
 }
+#submit-btn1{
+    width: 223px;
+    color:#131316;
+    padding-right: 74px;
+    background-color: #4e45d5;
+    box-shadow: 1px 2px 0.6pc;
+   display: flex;
+   justify-content: space-between;
+}
+#submit-btn1:hover{
+    border-color: #4e45d5;
+    background-color: white;
+   
+    color: black;
+}
 .form{
     display: flex;
     flex-direction: column;
@@ -586,6 +601,10 @@ transition: 0.5s;
 #submit-btn:hover{
 
     transform: scale(0.9);
+   
+}
+.btn1:hover{
+    color: #07060c;
 }
 
 .submit-icon{
@@ -765,7 +784,7 @@ a{
  }
 .footer-wrapper{
   position: relative;
-  left: -90px;
+  left: -80px;
   
 }
 
@@ -785,6 +804,9 @@ a{
 }
 a{
     font-size: 14px;
+}
+.icon{
+    font-size: 19px;
 }
 }
    
